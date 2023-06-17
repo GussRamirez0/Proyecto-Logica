@@ -1,0 +1,130 @@
+body {
+    background-image: url("https://www.roc21.com/blog/wp-content/uploads/2012/09/fondos-para-pa%CC%81ginas-web-6.jpg");
+  }
+  
+  header {
+    background-color: #f9c77e;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  h1 {
+    color: #000000;
+    font-size: 24px;
+  }
+  
+  IMG {  
+    width: 100px;
+    height: 100px;
+  }
+
+  .contenedor { 
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;
+    padding: 10px;
+  }
+
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+
+  .snake { 
+    background-image: url(IMG/snake.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+  }
+
+  .caja1 {  
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .snak { 
+    border: solid rgb(255, 0, 0) 3px;
+    padding: 8px;
+    border-radius: 50%;
+    background-color: white;
+    color: #000000;
+  }
+
+  .tetri { 
+    background-image: url(IMG/tetri.png);
+    background-size: cover;
+    background-position: end;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+  }
+
+  .caja2 {  
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .tetro { 
+    border: solid rgb(255, 0, 0) 3px;
+    padding: 8px;
+    border-radius: 50%;
+    background-color: white;
+    color: #000000;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .doc{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+   text-decoration: none;
+   font-size: 16px;
+   border: solid white 1px;
+   padding: 8px;
+   background-color: white;
+   border-radius: 10px;
+   border: solid red 3px;
+   border-radius: 10px;
+   
+}
+
+a { 
+  text-decoration: none;
+  color: #000000;
+}
+  
+  #contenido {
+    margin-top: 30px;
+    padding: 20px;
+    color: white;
+  }
+  
+  h2 {
+    color: #e75c5c;
+    font-size: 20px;
+  }
+  
+  ul {
+    color: #ffffff;
+    font-size: 16px;
+  }
+  
